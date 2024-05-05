@@ -1,0 +1,54 @@
+body {
+ 
+  background-color: #404040;
+  color: white;
+}
+.headerSection {
+  padding: 0.5rem;
+}
+.headerSection h1 {
+  font-family: cursive;
+}
+
+input {
+  max-width: 25vw;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+}
+select {
+  max-width: 15vw;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+}
+button {
+  max-width: 10vw;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  background-image: linear-gradient(
+    to right,
+    #097969 0%,
+    #c2e9fb 65%,
+    #097969 100%
+  );
+  font-weight: 700;
+}
+.uploadImage{
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 10px;
+    max-width: 25vw;
+    width: 100%;
+
+   
+}
+.role{
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 10px;
+    max-width: 25vw;
+    width: 100%;
+  
+}
